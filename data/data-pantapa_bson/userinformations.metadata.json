@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"panta_pasen_api_development.userinformations"},{"v":2,"key":{"meta.owner":1},"name":"meta.owner_1","ns":"panta_pasen_api_development.userinformations","background":true}],"uuid":"c921009b6a8c4ebbafcef377f8fb2d72"}

@@ -1,0 +1,2 @@
+_id,meta,data,__v,local
+"{'machine': -218338290, 'inc': -1354193763, 'time': 1554462807}","{'timestamp': {'createdAt': 1554462807615, 'updatedAt': 1591287101399}, 'owner': 'test@test.com'}","{'enums': {'carbon_dioxide': 62}, 'name': 'Standard', 'station_type_id': {'machine': 971168042, 'inc': -2057295956, 'time': 1546864571}, 'import_name': 'DEFAULT', 'ignore_conditions': False}",0,"{'sv': {'name': 'Standard'}, 'en': {'name': 'Default'}}"

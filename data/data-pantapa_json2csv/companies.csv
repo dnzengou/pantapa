@@ -1,0 +1,2 @@
+_id,data,meta,local,__v
+"{'machine': -1768797184, 'inc': 299119782, 'time': 1576742726}","{'name': 'Test', 'active': True, 'alreadyConnected': True, 'show_popup_notification': False}","{'timestamp': {'createdAt': 1576742726344, 'updatedAt': 1576742726344}}",{'sv': {'name': 'Test'}},0

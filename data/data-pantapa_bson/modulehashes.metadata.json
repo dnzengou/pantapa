@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"panta_pasen_api_development.modulehashes"},{"v":2,"unique":true,"key":{"module":1,"language":1,"country_code":1},"name":"module_1_language_1_country_code_1","ns":"panta_pasen_api_development.modulehashes","background":true}],"uuid":"e0c382a74c7f421b94a1a5aa501fc542"}
